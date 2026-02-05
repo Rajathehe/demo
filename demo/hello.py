@@ -1,7 +1,7 @@
 print("Hello")
-def add_numbers(a, b):
-    return a + b
+def sub_numbers(a, b):
+    return a - b
 
-result = add_numbers(5, 10)
-print(result) 
-print("pull request")
+result = sub_numbers(5, 10)
+print(result)
+
